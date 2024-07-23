@@ -1,0 +1,14 @@
+The following work plan is just a reference, all group members participated in analyzing the logic part 
+and debugging part as much as possible in both Python and C++. 
+All 4 group members worked together to refactor the mono part from Python to C++, since the mono part 
+for Python is the same as the Mono in Lab 3, and all 4 members optimized the run time in C++.
+All 4 group members worked together to figure out how to add threads in C++.
+
+Group 46-Disclosure
+Yuxin Zhou: Yuxin did the Python for stereo part with Hongwei, and debugged it with all group members. 
+	For the RDS part, Hongwei worked with Yuxin to finish the RDS part in C++ until the RRC filter, 
+	and finished the rest of the RDS part (from Data Recovery part to Frame Synchronization) with all group members.
+
+Declan Kinsella: Declan did the C++ for stereo part with Haoran Qi, and debugged it with all group members. 
+	For the RDS part, Haoran worked with Declan to finish the RDS part in Python until the RRC filter, 
+	and finished the rest of the RDS part with all group members.
